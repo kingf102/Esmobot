@@ -1,0 +1,7 @@
+[
+  {"name": "AMPROCOC 100G",     "retail": 1250, "whole": 1250, "supply": 1250},
+  {"name": "AMPROCOC 50G",      "retail": 700,  "whole": 700,  "supply": 700},
+  {"name": "COLLIMYCINE 100G",  "retail": 1270, "whole": 1270, "supply": 1270},
+  {"name": "ESMOVITA 100G",     "retail": 800,  "whole": 800,  "supply": 800},
+  {"name": "TYLOESMO 250 100G", "retail": 1500, "whole": 1500, "supply": 1500}
+]
